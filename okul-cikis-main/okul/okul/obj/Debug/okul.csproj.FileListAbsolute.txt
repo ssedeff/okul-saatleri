@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10a\okul\okul\bin\Debug\okul.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10a\okul\okul\bin\Debug\okul.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\okul\okul\bin\Debug\okul.pdb
+C:\Users\User\Desktop\KORUMASIZ\10a\okul\okul\obj\Debug\okul.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\okul\okul\obj\Debug\okul.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\okul\okul\obj\Debug\okul.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\okul\okul\obj\Debug\okul.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\okul\okul\obj\Debug\okul.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\okul\okul\obj\Debug\okul.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\okul\okul\obj\Debug\okul.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\okul\okul\obj\Debug\okul.pdb
